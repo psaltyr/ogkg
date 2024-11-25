@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 
+#Виконала: Олійникова Маргарита КМ-33
+
 # Зчитування даних із файлу
 file_path = "DS5.txt"
 points = []
